@@ -10,4 +10,5 @@
     border-radius: var(--border-button);
     border-bottom: var(--border-button);
     outline: none;
+    padding: 10px;
 }
